@@ -7,7 +7,7 @@
 - 🐍 **Python**: Crafting elegant solutions with Python's simplicity and power.
 - 💻 **C++**: Embracing the power of performance with C++.
 - 🌈 **Vue.js**: Building responsive interfaces with Vue.js.
-- 📚 **UniApp**: Cross-platform app development made easy.
+- 📚 **Uni-App**: Cross-platform app development made easy.
 - 🏮 **E Language**: The simplicity of E Language and E Android for rapid development.
 
 ### 🤐 Network Insulator 🤐
